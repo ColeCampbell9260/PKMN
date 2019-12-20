@@ -1,0 +1,6 @@
+v0.0.0.001:
+	- Created Map (43.0), Starting Town
+v0.0.0.002:
+	- Edited Map (4.1), Player's Bedroom
+	- Created Map (43.1), Player's House Upstairs Hallway
+	- Edited Tilesets 11, 12
